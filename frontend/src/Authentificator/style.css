@@ -1,0 +1,13 @@
+.card-size {
+  width: 80%; /* Lățime de 80% pe mobil */
+  margin: auto; /* Centering */
+}
+.card:hover {
+  transform: translateY(-0px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+@media (min-width: 768px) {
+  .card-size {
+    width: 50%; /* Lățime de 50% pe laptop și ecrane mai mari */
+  }
+}
