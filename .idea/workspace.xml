@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96d2ec6e-fbc8-4830-8997-6c66adc35382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FlaskProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/income.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/transactions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Authentificator/createUser.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Authentificator/logIn.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="96d2ec6e-fbc8-4830-8997-6c66adc35382" name="Changes" comment="pycharm commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OStefan2001"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OStefan2001/FlaskProject.git",
+    "accountId": "6ebacedd-5478-482f-aded-b196b7fcc25f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -104,6 +100,28 @@
       <option name="presentableId" value="Default" />
       <updated>1728378581475</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1730282046375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730282046375</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pycharm commit">
+      <option name="closed" value="true" />
+      <created>1730282263246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730282263246</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="pycharm commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="pycharm commit" />
   </component>
 </project>
