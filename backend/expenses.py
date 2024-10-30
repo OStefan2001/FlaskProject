@@ -44,7 +44,6 @@ def get_expenses(year, month):
             if category not in expenses_by_category:
                 expenses_by_category[category] = {}
 
-            # Adăugăm subcategoria la categorie, acumulând sumele
             if subcategory not in expenses_by_category[category]:
                 expenses_by_category[category][subcategory] = 0
 
