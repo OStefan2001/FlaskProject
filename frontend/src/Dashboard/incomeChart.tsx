@@ -15,14 +15,19 @@ const IncomeChart: React.FC<IncomeChartProps> = ({ incomeByCategory }) => {
             {
                 data: Object.values(incomeByCategory),
                 backgroundColor: [
-                    '#36A2EB', 
-                    '#FF6384', 
-                    '#FFCE56', 
-                    '#FF9F40', 
-                    '#4BC0C0', 
-                    '#9966FF', 
-                    '#FF9F40'  
-                ],
+                    '#36A2EB', // Albastru
+                    '#FF6384', // Roz
+                    '#FFCE56', // Galben
+                    '#FF9F40', // Portocaliu
+                    '#4BC0C0', // Cyan
+                    '#9966FF', // Violet
+                    '#FF5733', // Roșu aprins
+                    '#C70039', // Roșu închis
+                    '#900C3F', // Vin
+                    '#FFC300'  // Galben deschis
+                ]
+                
+                
             },
         ],
     };
